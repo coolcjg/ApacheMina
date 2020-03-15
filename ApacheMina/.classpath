@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/lib/commons-logging-1.0.3.jar"/>
-	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/lib/javassist-3.24.1-GA.jar"/>
-	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/lib/jcl-over-slf4j-1.7.26.jar"/>
-	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/lib/jzlib-1.1.3.jar"/>
-	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/lib/ognl-3.2.10.jar"/>
-	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/lib/slf4j-api-1.7.26.jar"/>
-	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/lib/spring-2.5.6.SEC03.jar"/>
-	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/lib/tomcat-jni-9.0.16.jar"/>
-	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/lib/xbean-spring-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/javassist-3.24.1-GA.jar"/>
+	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/jcl-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/jzlib-1.1.3.jar"/>
 	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/mina-core-2.1.3.jar"/>
-	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/mina-example-2.1.3.jar"/>
 	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/mina-filter-compression-2.1.3.jar"/>
 	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/mina-http-2.1.3.jar"/>
 	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/mina-integration-beans-2.1.3.jar"/>
@@ -21,5 +14,12 @@
 	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/mina-integration-xbean-2.1.3.jar"/>
 	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/mina-statemachine-2.1.3.jar"/>
 	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/mina-transport-apr-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/ognl-3.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/spring-2.5.6.SEC03.jar"/>
+	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/tomcat-jni-9.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/xbean-spring-4.12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/lib/apache-mina-2.1.3/dist/slf4j-simple-1.7.26.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
